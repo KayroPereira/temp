@@ -4,7 +4,7 @@
 
 #### Comida 2
 
-#### Comida adicionada pelo gthub
+#### Comida adicionada pelo github
 
 
 
