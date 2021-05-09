@@ -6,7 +6,3 @@
 
 #### Comida adicionada pelo github
 
-
-
-##### Comida 3
-
